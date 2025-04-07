@@ -1,6 +1,4 @@
-Sure! Here's the updated `README.md` without the **Key Concepts** sections:
 
----
 
 # PBLJ-Assignment-8  
 ## Chapter 7: Servlets and JSP (Experiment 8)
@@ -68,6 +66,3 @@ The application should:
 - IDE (Eclipse / IntelliJ IDEA / VS Code)  
 - Servlet & JSP configuration in `web.xml` or annotation-based  
 
----
-
-Let me know if you'd like the same format for future chapters or want code snippets added as well!
